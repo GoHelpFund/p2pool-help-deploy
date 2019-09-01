@@ -40,9 +40,9 @@ DONATION=0.5
 HELP_WALLET_URL=https://github.com/gohelpfund/aden/releases/download/v0.13.1.0/helpcore-0.13.1-x86_64-linux-gnu.tar.gz
 HELP_WALLET_ZIP=helpcore-0.13.1-x86_64-linux-gnu.tar.gz
 HELP_WALLET_LOCAL=helpcore-0.13.1
-P2POOL_FRONTEND=https://github.com/justino/p2pool-ui-punchy
-P2POOL_FRONTEND2=https://github.com/johndoe75/p2pool-node-status
-P2POOL_FRONTEND3=https://github.com/hardcpp/P2PoolExtendedFrontEnd
+P2POOL_FRONTEND=https://github.com/gohelpfund/p2pool-ui-punchy
+P2POOL_FRONTEND2=https://github.com/gohelpfund/p2pool-node-status
+P2POOL_FRONTEND3=https://github.com/gohelpfund/P2PoolExtendedFrontEnd
 
 #
 # Install Prerequisites
